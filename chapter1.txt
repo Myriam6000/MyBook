@@ -4,3 +4,5 @@ I'm learning to use GIT and it looks a bit complicated.
  It needs to track all the changes in the file.
 
  Now I'm using Atom too.
+
+ I have some difficulties with my second file chapter2.txt
