@@ -1,3 +1,6 @@
 Today I created a file in a new directory called MyBook.
 
-I'm learning to use GIT and it looks a bit complicated. It needs to track all the changes in the file.
+I'm learning to use GIT and it looks a bit complicated.
+It needs to track all the changes in the file.
+
+Now will it register my new modifications and NOT under another branch ???
